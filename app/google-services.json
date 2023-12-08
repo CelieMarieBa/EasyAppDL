@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590680849887",
+    "project_id": "easy-app-dl",
+    "storage_bucket": "easy-app-dl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590680849887:android:0852cdf7f368664297186a",
+        "android_client_info": {
+          "package_name": "com.example.easyappdl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86BKMQTfo2BhzMGZGg_XkUKpXnribfNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
